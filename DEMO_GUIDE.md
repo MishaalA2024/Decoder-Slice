@@ -448,7 +448,7 @@ curl -X GET "http://localhost:8080/buildings/1/forecast?minutes=60" \
 
 ## Success Criteria
 
-✅ **Demo is successful if:**
+**Demo is successful if:**
 - Application starts without errors
 - Can ingest sensor readings
 - Can retrieve readings with authentication
@@ -459,3 +459,4 @@ curl -X GET "http://localhost:8080/buildings/1/forecast?minutes=60" \
 ---
 
 **Ready to demo?** Follow the steps above and you'll have a complete demonstration of the DECODER API!
+
