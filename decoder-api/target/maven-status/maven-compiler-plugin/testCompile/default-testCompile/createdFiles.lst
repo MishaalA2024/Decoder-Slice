@@ -1,0 +1,4 @@
+com\decoder\service\ForecastServiceTest.class
+com\decoder\controller\BuildingControllerIntegrationTest.class
+com\decoder\controller\IngestControllerIntegrationTest.class
+com\decoder\service\SecurityServiceTest.class
