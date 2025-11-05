@@ -109,6 +109,3 @@ Notes:
   mvn spotbugs:check
   ```
 
----
-
-Share these steps along with the repository so others can run the API and the comprehensive test quickly.
